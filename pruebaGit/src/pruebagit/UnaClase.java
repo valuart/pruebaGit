@@ -15,14 +15,14 @@ public class UnaClase {
         System.out.println("Hola!");
     }
     
-    public void DosClases(){
+    public void unMetodo2(){
         
-        System.out.println("Chau!");
+        System.out.println("Es un Metodo no una clase xD");
     
 }
-    public void TresClases(){
+    public void unMetodo3(){
         
-        System.out.println("Adios!");
+        System.out.println("Lo mismo que lo de arriba");
         
     }
 }
