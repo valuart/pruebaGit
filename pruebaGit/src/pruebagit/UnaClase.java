@@ -13,4 +13,11 @@ public class UnaClase {
     
     public void unMetodo(){
         System.out.println("Hola!");
+    }
+    
+    public void DosClases(){
+        
+        System.out.println("Chau!");
+    
+}
 }
