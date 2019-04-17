@@ -20,4 +20,9 @@ public class UnaClase {
         System.out.println("Chau!");
     
 }
+    public void TresClases(){
+        
+        System.out.println("Adios!");
+        
+    }
 }
